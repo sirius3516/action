@@ -1,4 +1,4 @@
 # action
-faction and action work together
+faction and action work
 
 Ch-ch-ch-ch-changes
